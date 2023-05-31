@@ -1,2 +1,2 @@
 # Getting Started with Create React App
-Crated as a live test version
+Created a live version of https://github.com/ZackCipolletta/P2P-Commerce-Site
